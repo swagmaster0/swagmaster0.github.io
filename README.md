@@ -1,3 +1,3 @@
-# swag-master0.github.io
+# https://swagmaster0.github.io/
 
-le funny website thingo
+A personal website, mainly to contain my portfolio of game projects. 
