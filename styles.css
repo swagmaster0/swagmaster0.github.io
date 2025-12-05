@@ -1,0 +1,55 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 50px;
+}
+p
+{
+    padding-bottom: 50px;
+}
+
+
+.content
+{
+    max-width: 50vw;
+    max-height: 50px;
+    margin: auto;
+}
+.button
+{
+    background-color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    color: rgb(255, 255, 255);
+    border-radius: 24px;
+    border-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 4px;
+    
+}
+
+a:link, a:visited
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 24px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    margin: 5px;
+}
+a:hover, a:active
+{
+    color: rgb(56, 230, 56);
+    border-color: rgb(56, 230, 56);;
+}
